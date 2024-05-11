@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "notesphere"
+version = "0.1.0"
+description = ""
+authors = ["chebupelka8 <stpzamyatin@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.11,<3.13"
+qtharmony = "^0.1.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
