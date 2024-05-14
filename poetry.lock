@@ -53,13 +53,13 @@ shiboken6 = "6.7.0"
 
 [[package]]
 name = "qtharmony"
-version = "0.1.1"
+version = "0.2.4"
 description = "QtHarmony - is a Cutting-Edge GUI Library Built on PyQt6 QtHarmony is a intuitive graphical user interface (GUI) library designed to simplify the development of modern, visually stunning, and highly functional applications. Built on the robust foundation of PyQt6. Now QtHarmony is in development."
 optional = false
 python-versions = "<3.13,>=3.11"
 files = [
-    {file = "qtharmony-0.1.1-py3-none-any.whl", hash = "sha256:4681519229bad5e6830c6979ae579e24893a46ae7598f0b1c780a7e8c62421ce"},
-    {file = "qtharmony-0.1.1.tar.gz", hash = "sha256:1195cbdea9653ca4a06d784ff6977a2eb3885a5455d0fe27f591f0c49476cc24"},
+    {file = "qtharmony-0.2.4-py3-none-any.whl", hash = "sha256:abb9411c6888a430c60f23674e19b465fd455dc75d7dbb892e5937ec0e5f907d"},
+    {file = "qtharmony-0.2.4.tar.gz", hash = "sha256:da5192949d7b7311838fb101e0ce850ea818ce7774336768116cce1161348b63"},
 ]
 
 [package.dependencies]
@@ -81,4 +81,4 @@ files = [
 [metadata]
 lock-version = "2.0"
 python-versions = ">=3.11,<3.13"
-content-hash = "a52cf4edd2eff501521a427b1df245fbf6241d9bd1ce79f44814d1ea76b018dd"
+content-hash = "953317935761597383c5e33d90c1ba0ca0086e688251ce7f0ae7133570509e3f"
